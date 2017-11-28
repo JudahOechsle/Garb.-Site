@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+    
+    
+}
+#logo {
+    background-image: url('../images/logo.png');
+    width:200px;
+    height:150px;
+    background-size:contain;
+    margin-top:-0px;
+    margin: 0 auto;
+    padding-bottom: 0;
+    }
+#phone {
+        background-image: url('../images/mockup.png');
+        background-repeat: no-repeat;
+        width:800px;
+        height:500px;
+        position: absolute;
+        background-size:contain;
+        margin-top:1000px;
+        margin: 30px;
+    }
+#dots {
+        background-image: url('../images/dots-01-01.png');
+        background-repeat: repeat-y;
+        width:1200px;
+        height:4200px;
+        background-size:contain;
+        position: absolute;
+        margin-top: 0px;
+        margin-left: 0px;
+
+}
+#redlinetop {
+        background-image: url('../images/red%20line%20top-01.png');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:600px;
+        position: absolute;
+        background-size:contain;
+        margin-top:1000px;
+        margin: auto;
+    }
+#steps {
+        background-image: url('../images/steps-01.jpg');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:900px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 600px;
+    }
+#testimonies {
+        background-image: url('../images/testimonies-01.png');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:900px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 1400px;
+    }
+#brands {
+        background-image: url('../images/brands-01.jpg');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:1000px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 2100px;
+    }
+#brockhampton {
+        background-image: url('../images/brockhampton-01.png');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:1000px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 2900px;
+    }
+#others {
+        background-image: url('../images/other%20stories-01.png');
+        background-repeat: no-repeat;
+        width:1200px;
+        height:1000px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 2900px;
+    }
+#button {
+        background-image: url('../images/store-01.jpg');
+        background-repeat: no-repeat;
+        width:357px;
+        height:357px;
+        position: absolute;
+        background-size:contain;
+        margin-top: 3740px;
+        margin-left: 422px;
+    }
